@@ -140,3 +140,6 @@ def quitgame(result):
                                                                                                                                 quitgame(result)
                                                                                                                     else:
                                                                                                                                     print("enter a valid choice!")
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    [Back to Home](https://github.com/kalley810/Final-Project)
